@@ -1,0 +1,17 @@
+@require: stdjabook
+
+document (|
+  title = {satysfi on vscode};
+  author = {niuez};
+  show-title = true;
+  show-toc = false;
+|) '<
+  +section{はじめに}<
+    +p {
+      やった〜
+    }
+    +p {
+      ${\app{f}{x}}を定義しません
+    }
+  >
+>
